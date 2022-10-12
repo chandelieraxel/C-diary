@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "__config": "c",
+        "errno.h": "c",
+        "string.h": "c"
+    }
+}

@@ -1,0 +1,4 @@
+2022/10/7 0:20 : Input with day
+2022/10/7 0:20 : New ?
+2022/10/10 12:16 : My entry from today : \n Try to make a line return
+2022/10/10 22:30 : Привет!
